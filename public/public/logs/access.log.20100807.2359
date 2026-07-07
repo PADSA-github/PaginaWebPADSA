@@ -1,0 +1,2 @@
+192.193.221.140 - - [02/Sep/2010:12:06:10 -0600] "GET /jsp/es/oportunidadesPad.jsp HTTP/1.1" 200 1676 "http://www.padsa.com.mx/index.jsp" "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8"
+192.193.221.140 - - [02/Sep/2010:12:06:47 -0600] "GET /jsp/es/clientesPad.jsp HTTP/1.1" 200 887 "http://www.padsa.com.mx/index.jsp" "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8"

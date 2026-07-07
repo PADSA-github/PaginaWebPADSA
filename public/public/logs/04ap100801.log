@@ -1,0 +1,4 @@
+www.padsa.com.mx 75.101.176.35 - - [01/Aug/2010:01:50:26 -0500] "HEAD / HTTP/1.1" 200 0 "-" "Flamingo_SearchEngine (+http://www.flamingosearch.com/bot)"
+www.padsa.com.mx 208.80.194.38 - - [01/Aug/2010:05:04:30 -0500] "GET / HTTP/1.0" 200 136 "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; {30BC45C2-E86F-B5D6-2BD8-54ABDC85E268}; .NET CLR 1.1.4322)"
+www.padsa.com.mx 193.252.118.174 - - [01/Aug/2010:17:59:53 -0500] "GET /robots.txt HTTP/1.1" 404 216 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.1) VoilaBot BETA 1.2 (support.voilabot@orange-ftgroup.com)"
+www.padsa.com.mx 193.252.118.174 - - [01/Aug/2010:18:00:05 -0500] "GET / HTTP/1.1" 200 148 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.1) VoilaBot BETA 1.2 (support.voilabot@orange-ftgroup.com)"

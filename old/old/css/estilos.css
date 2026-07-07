@@ -1,0 +1,185 @@
+@font-face{
+	font-family: "titulos";
+	src: url("fonts/ARIBL0.ttf");
+}
+
+@font-face{
+	font-family: "parrafos";
+	src: url("fonts/G_ari_bd.ttf");
+}
+
+/*Header*/
+.navbar{
+	margin-bottom:0;
+	position: fixed;
+  	z-index: 10;
+  	background: #E3E3E3;
+  	width: 100%;
+  	padding-top: 15px;
+}
+
+.PAD-img{
+	padding-bottom: 15px;
+}
+
+ul.nav a {
+	color: #6A6A6A;
+	font-family: titulos;
+	font-size: 16px;
+	margin-left: 35px;
+	margin-bottom: 20px;
+	margin-top: 5px;
+	border-left: 1px solid #ccc;
+}
+
+ul.nav a:hover{
+	background-color: #C5353A;
+	color: white;
+}
+
+ul.nav li a:focus{
+	background-color: #E3E3E3;
+	color: #C5353A;
+}
+
+.icon-bar{
+	background-color: #C5353A;
+}
+
+/*Imagen inicial*/
+.img-inicio{
+	width: 100% !important;
+	padding-top: 100px;
+	margin-bottom: 20px;
+}
+
+
+.parallax-image{
+	width: 100%;
+	height: 890px;
+	/*margin-top: 320px;*/
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: white;
+	text-decoration: underline;
+	position: absolute;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	left: 0;
+	top: 0;
+}
+
+
+/*Informacion*/
+.main{
+	margin-top: 0px;
+	margin-bottom: 20px;
+}
+
+h2{
+	color: #C5353A;
+	font-family: titulos;
+	font-weight: bold;
+}
+
+p{
+	font-size: 16px;
+	font-family: parrafos;
+}
+
+.contenido-p{
+	color: black;
+	text-align: justify;
+	margin-top: 50px;
+	margin-bottom: 40px;
+	font-family: parrafos;
+}
+
+/*.imgs-serprod p{
+	text-align: justify;
+	margin-bottom: 40px;
+	margin-top: 10px;
+}
+
+.img-1-ini,.img-2-ini,.img-3-ini{
+	margin-bottom: 20px;
+}*/
+
+hr.style1{
+	width: 100%;
+	border-top: 1px solid #6A6A6A;
+}
+
+.postulate{
+	text-align: center;
+}
+
+.listaSolucion1{
+	padding-top: 0px;
+	align-items: center;
+	text-align: center;
+}
+
+.solucionesdiv{
+	padding-top: 160px;
+}
+
+.contacto{
+	padding-top: 160px;
+	padding-bottom: 100px;
+}
+
+input.btnEnviar{
+	background-color: #C5353A;
+	color: white;
+	width: 130px;
+	height: 50px;
+	font-size: 20px;
+	font-family: parrafos;
+}
+
+input.btnEnviar:hover{
+	background-color: #B12F34;
+}
+
+.divEnviarbtn{
+	align-items: center;
+	text-align: center;
+}
+
+.captchaContacto{
+	align-items: center;
+	text-align: center;
+	padding-top: 50px;
+}
+
+#mensaje{
+	text-align: center;
+}
+
+a.btn-rojo{
+        background: #C5353A;
+ }
+a.btn-rojo:hover{
+        background: #B12F34;
+}
+
+
+/*Pie de pagina*/
+.pie-pagina{
+	text-align: center;
+	background-color: #E3E3E3;
+	width: 100%;
+	color: gray;
+}
+
+.footer-cont{
+	padding: 20px;
+	font-family: parrafos;
+	font-size: 16px;
+	/*font-weight: bold;*/
+	margin-bottom: 0px;
+}

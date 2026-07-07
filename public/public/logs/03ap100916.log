@@ -1,0 +1,3 @@
+www.padsa.com.mx 207.46.13.50 - - [16/Sep/2010:18:40:45 -0500] "GET /robots.txt HTTP/1.1" 404 216 "-" "msnbot/2.0b (+http://search.msn.com/msnbot.htm)"
+www.padsa.com.mx 207.46.13.50 - - [16/Sep/2010:18:47:44 -0500] "GET /index.jsp HTTP/1.1" 200 5874 "-" "msnbot/2.0b (+http://search.msn.com/msnbot.htm)"
+www.padsa.com.mx 207.46.13.50 - - [16/Sep/2010:18:47:44 -0500] "GET /swf/header_lb.swf HTTP/1.1" 200 43452 "-" "msnbot/2.0b (+http://search.msn.com/msnbot.htm)"

@@ -1,0 +1,2 @@
+www.padsa.com.mx 64.246.165.190 - - [08/Aug/2010:14:03:40 -0500] "GET /robots.txt HTTP/1.0" 404 204 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (DomainTools)"
+www.padsa.com.mx 64.246.165.190 - - [08/Aug/2010:14:03:40 -0500] "GET / HTTP/1.1" 200 148 "http://whois.domaintools.com/padsa.com.mx" "Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (DomainTools)"

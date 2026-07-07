@@ -1,0 +1,2 @@
+www.padsa.com.mx 67.195.37.165 - - [05/Aug/2010:02:03:03 -0500] "GET /robots.txt HTTP/1.0" 404 204 "-" "Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"
+www.padsa.com.mx 67.195.37.165 - - [05/Aug/2010:02:03:04 -0500] "GET / HTTP/1.0" 200 136 "-" "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)"

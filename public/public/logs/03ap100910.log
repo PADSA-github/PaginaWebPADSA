@@ -1,0 +1,3 @@
+www.padsa.com.mx 208.80.194.36 - - [10/Sep/2010:08:29:15 -0500] "GET / HTTP/1.0" 200 136 "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; FunWebProducts; Zango 10.0.275.0)"
+www.padsa.com.mx 66.249.71.67 - - [10/Sep/2010:18:20:06 -0500] "GET /robots.txt HTTP/1.1" 404 216 "-" "Googlebot-Image/1.0"
+www.padsa.com.mx 66.249.71.67 - - [10/Sep/2010:18:20:06 -0500] "GET /img/imgPAD/img-inicio.gif HTTP/1.1" 304 - "-" "Googlebot-Image/1.0"

@@ -1,0 +1,4 @@
+www.padsa.com.mx 208.80.194.30 - - [29/Aug/2010:14:45:40 -0500] "GET / HTTP/1.0" 200 136 "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; acc=sam00100; .NET CLR 1.1.4322; InfoPath.1)"
+www.padsa.com.mx 207.46.199.40 - - [29/Aug/2010:15:33:23 -0500] "GET /robots.txt HTTP/1.1" 404 216 "-" "msnbot/2.0b (+http://search.msn.com/msnbot.htm)"
+www.padsa.com.mx 71.255.121.124 - - [29/Aug/2010:17:10:06 -0500] "GET / HTTP/1.1" 200 148 "-" "Mozilla/4.0 (compatible; MSIE 4.01; Windows NT)"
+www.padsa.com.mx 207.46.199.40 - - [29/Aug/2010:17:34:30 -0500] "GET / HTTP/1.1" 200 148 "-" "msnbot/2.0b (+http://search.msn.com/msnbot.htm)"
