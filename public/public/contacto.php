@@ -71,9 +71,9 @@
                      <a class="twitter-timeline" data-width="100%"  href="https://twitter.com/solodev">Tweets by solodev</a> 
                   </div>
                   <div class="sociales">
-                    <a href="https://www.facebook.com/profile.php?id=100083620180531"><i class="fa fa-facebook fa-2x"></i></a>
-                    <a href="https://www.instagram.com/aiti.mx/"><i class="fa fa-instagram fa-2x"></i></a>
-                    <a href="https://www.linkedin.com/in/ai-ti-sa-de-cv-5577b823b/"><i class="fa fa-linkedin fa-2x"></i></a>
+                    <a href="https://www.facebook.com/share/1Buf8bk8QH/?mibextid=wwXIfr"><i class="fa fa-facebook fa-2x"></i></a>
+                    <a href="https://www.instagram.com/padsamx"><i class="fa fa-instagram fa-2x"></i></a>
+                    <a href="https://www.linkedin.com/company/padsa-mx/"><i class="fa fa-linkedin fa-2x"></i></a>
                   </div>
                   
                 </div>
