@@ -71,10 +71,9 @@
                      <a class="twitter-timeline" data-width="100%"  href="https://twitter.com/solodev">Tweets by solodev</a> 
                   </div>
                   <div class="sociales">
-                    <a href="https://facebook.com/"><i class="fa fa-facebook fa-2x"></i></a>
-                    <a href="https://twitter.com/"><i class="fa fa-twitter fa-2x"></i></a>
-                    <a href="https://linkedin.com/"><i class="fa fa-linkedin fa-2x"></i></a>
-                    <a href="https://youtube.com/"><i class="fa fa-youtube fa-2x"></i></a>
+                    <a href="https://www.facebook.com/profile.php?id=100083620180531"><i class="fa fa-facebook fa-2x"></i></a>
+                    <a href="https://www.instagram.com/aiti.mx/"><i class="fa fa-instagram fa-2x"></i></a>
+                    <a href="https://www.linkedin.com/in/ai-ti-sa-de-cv-5577b823b/"><i class="fa fa-linkedin fa-2x"></i></a>
                   </div>
                   
                 </div>
