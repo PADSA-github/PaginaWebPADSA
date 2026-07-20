@@ -261,7 +261,7 @@
 }
 
 .colo-default {
-    color: #212529!important;
+    color: #212529 !important;
 }
 
 .color-primario {
@@ -343,7 +343,7 @@ a[href^="tel:"]:hover {
 body {
     font-family: "Arial", Arial, serif;
     overflow-x: hidden;
-    font-size: 85%!important;
+    font-size: 85% !important;
 }
 
 a {
@@ -424,7 +424,7 @@ a:hover {
     background: -o-linear-gradient(top, rgba(121, 0, 0, 1) 0%, rgba(192, 33, 38, 1) 35%);
     background: -ms-linear-gradient(top, rgba(121, 0, 0, 1) 0%, rgba(192, 33, 38, 1) 35%);
     background: linear-gradient(to bottom, rgba(121, 0, 0, 1) 0%, rgba(192, 33, 38, 1) 35%);
-    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#790000', endColorstr='#c02126', GradientType=0);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#790000', endColorstr='#c02126', GradientType=0);
 }
 
 .navi .septimo.active {
@@ -436,7 +436,7 @@ a:hover {
     background: -o-linear-gradient(top, rgba(121, 0, 0, 1) 0%, rgba(192, 33, 38, 1) 35%);
     background: -ms-linear-gradient(top, rgba(121, 0, 0, 1) 0%, rgba(192, 33, 38, 1) 35%);
     background: linear-gradient(to bottom, rgba(121, 0, 0, 1) 0%, rgba(192, 33, 38, 1) 35%);
-    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#790000', endColorstr='#c02126', GradientType=0);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#790000', endColorstr='#c02126', GradientType=0);
 }
 
 .footer {
@@ -455,7 +455,7 @@ a:hover {
 }
 
 .isotipo-footer {
-    width: 50px;
+    width: 60px;
     right: 0;
     position: absolute;
     bottom: 20px;
@@ -534,12 +534,12 @@ a:hover {
 }
 
 .slick-dots li button:before {
-    font-size: 14px!important;
+    font-size: 14px !important;
 }
 
 .slick-dots li.slick-active button:before {
-    opacity: .75!important;
-    color: rgba(153, 1, 1, 1)!important;
+    opacity: .75 !important;
+    color: rgba(153, 1, 1, 1) !important;
 }
 
 .layer {
@@ -554,15 +554,23 @@ a:hover {
     margin-right: 20px;
     margin-top: 5%;
     height: auto;
-    clip-path: polygon( 0% 0px, /* top left */
-    0px 0%, /* top left */
-    calc(100% - 50px) 0%, /* top right */
-    100% 50px, /* top right */
-    100% calc(100% - 0px), /* bottom right */
-    calc(100% - 0px) 100%, /* bottom right */
-    50px 100%, /* bottom left */
-    0 calc(100% - 50px)/* bottom left */
-    );
+    clip-path: polygon(0% 0px,
+            /* top left */
+            0px 0%,
+            /* top left */
+            calc(100% - 50px) 0%,
+            /* top right */
+            100% 50px,
+            /* top right */
+            100% calc(100% - 0px),
+            /* bottom right */
+            calc(100% - 0px) 100%,
+            /* bottom right */
+            50px 100%,
+            /* bottom left */
+            0 calc(100% - 50px)
+            /* bottom left */
+        );
 }
 
 .slick-prev,
@@ -571,20 +579,20 @@ a:hover {
 }
 
 .slick-prev {
-    left: 25px!important;
+    left: 25px !important;
 }
 
 .slick-next {
-    right: 25px!important;
+    right: 25px !important;
 }
 
 .slick-next:before,
 .slick-prev:before {
     font-family: slick;
-    font-size: 35px!important;
+    font-size: 35px !important;
     line-height: 1;
     opacity: .75;
-    color: rgba(153, 1, 1, .8)!important;
+    color: rgba(153, 1, 1, .8) !important;
     -webkit-font-smoothing: antialiased;
 }
 
@@ -619,17 +627,25 @@ a:hover {
     text-align: center;
     box-shadow: 1px 0px 45px 3px rgba(0, 0, 0, .2);
     padding: 20px 35px 20px 15px;
-    color: #fff!important;
+    color: #fff !important;
     background: #999999;
-    clip-path: polygon( 0% 0px, /* top left */
-    0px 0%, /* top left */
-    calc(100% - 40px) 0%, /* top right */
-    100% 40px, /* top right */
-    100% calc(100% - 0px), /* bottom right */
-    calc(100% - 0px) 100%, /* bottom right */
-    0px 100%, /* bottom left */
-    0 calc(100% - 0px)/* bottom left */
-    );
+    clip-path: polygon(0% 0px,
+            /* top left */
+            0px 0%,
+            /* top left */
+            calc(100% - 40px) 0%,
+            /* top right */
+            100% 40px,
+            /* top right */
+            100% calc(100% - 0px),
+            /* bottom right */
+            calc(100% - 0px) 100%,
+            /* bottom right */
+            0px 100%,
+            /* bottom left */
+            0 calc(100% - 0px)
+            /* bottom left */
+        );
     transition: all 0.5s ease;
 }
 
@@ -662,15 +678,23 @@ a:hover {
     -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
     box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
-    clip-path: polygon( 0% 0px, /* top left */
-    0px 0%, /* top left */
-    calc(100% - 50px) 0%, /* top right */
-    100% 50px, /* top right */
-    100% calc(100% - 0px), /* bottom right */
-    calc(100% - 0px) 100%, /* bottom right */
-    50px 100%, /* bottom left */
-    0 calc(100% - 50px)/* bottom left */
-    );
+    clip-path: polygon(0% 0px,
+            /* top left */
+            0px 0%,
+            /* top left */
+            calc(100% - 50px) 0%,
+            /* top right */
+            100% 50px,
+            /* top right */
+            100% calc(100% - 0px),
+            /* bottom right */
+            calc(100% - 0px) 100%,
+            /* bottom right */
+            50px 100%,
+            /* bottom left */
+            0 calc(100% - 50px)
+            /* bottom left */
+        );
 }
 
 .innovando.desc p {
@@ -731,7 +755,7 @@ a:hover {
 
 .contacto-frm {
     width: 100%;
-    margin-top: 10%!important;
+    margin-top: 10% !important;
 }
 
 .contacto-frm .form-control {
@@ -779,7 +803,7 @@ textarea.form-control {
 }
 
 .contenedor-twt {
-    height: 200px;
+    height: 220px;
     overflow-y: scroll;
     width: 100%;
 }
@@ -807,7 +831,7 @@ textarea.form-control {
 
 .footer,
 .header {
-    z-index: 999999999999!important;
+    z-index: 999999999999 !important;
     position: relative;
 }
 
@@ -872,12 +896,15 @@ textarea.form-control {
     0% {
         opacity: 0;
     }
+
     45% {
         opacity: 0;
     }
+
     55% {
         opacity: 30;
     }
+
     100% {
         opacity: 1;
     }
@@ -914,11 +941,11 @@ textarea.form-control {
 }
 
 .slick-slide .imagen-central.animado.clientes {
-    background-position: center 2000px!important;
+    background-position: center 2000px !important;
 }
 
 .slick-slide.slick-current.slick-active .imagen-central.animado.clientes {
-    background-position: center top!important;
+    background-position: center top !important;
 }
 
 .hide {
@@ -929,6 +956,7 @@ textarea.form-control {
     .navi .septimo {
         height: 65px;
     }
+
     .layer {
         max-width: 400px;
         font-size: 16px;
@@ -947,19 +975,23 @@ textarea.form-control {
 }
 
 @media only screen and (max-width: 768px) {
+
     /*Header*/
     .navi {
         font-size: 12px;
     }
+
     .layer {
         margin: 50px auto;
         max-width: 100%;
     }
+
     .table-cell {
         position: absolute;
         left: 0;
         height: 200px;
     }
+
     .navsol a {
         display: block;
         float: none;
@@ -967,33 +999,47 @@ textarea.form-control {
         margin-left: -20px;
         margin-bottom: 10px;
     }
+
     .innovando .navsol a {
         height: 49px;
-        clip-path: polygon( 0% 0px, /* top left */
-        0px 0%, /* top left */
-        calc(100% - 40px) 0%, /* top right */
-        100% 40px, /* top right */
-        100% calc(100% - 0px), /* bottom right */
-        calc(100% - 0px) 100%, /* bottom right */
-        0px 100%, /* bottom left */
-        0 calc(100% - 0px)/* bottom left */
-        );
+        clip-path: polygon(0% 0px,
+                /* top left */
+                0px 0%,
+                /* top left */
+                calc(100% - 40px) 0%,
+                /* top right */
+                100% 40px,
+                /* top right */
+                100% calc(100% - 0px),
+                /* bottom right */
+                calc(100% - 0px) 100%,
+                /* bottom right */
+                0px 100%,
+                /* bottom left */
+                0 calc(100% - 0px)
+                /* bottom left */
+            );
     }
+
     .soluciones .row.align-items-end {
-        align-items: center!important;
+        align-items: center !important;
     }
+
     .innovando .table-cell {
         position: absolute;
         left: 0;
         height: auto;
     }
+
     .desc {
-        float: right!important;
-        text-align: right!important
+        float: right !important;
+        text-align: right !important
     }
+
     .desc p {
         text-shadow: 2px 2px rgb(255, 255, 255, 0.6);
     }
+
     .contenedor-twt {
         height: 150px;
         overflow-y: scroll;
@@ -1007,6 +1053,7 @@ textarea.form-control {
         display: none;
         border-right: none;
     }
+
     .navi .icon {
         display: block;
         float: right;
@@ -1023,28 +1070,33 @@ textarea.form-control {
         background: -o-linear-gradient(top, rgba(121, 0, 0, 1) 0%, rgba(192, 33, 38, 1) 35%);
         background: -ms-linear-gradient(top, rgba(121, 0, 0, 1) 0%, rgba(192, 33, 38, 1) 35%);
         background: linear-gradient(to bottom, rgba(121, 0, 0, 1) 0%, rgba(192, 33, 38, 1) 35%);
-        filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#790000', endColorstr='#c02126', GradientType=0);
+        filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#790000', endColorstr='#c02126', GradientType=0);
     }
+
     .logo {
         width: 130px;
     }
+
     .isotipo-footer {
-        width: 50px;
+        width: 60px;
         position: relative;
         display: block;
         margin: 20px auto;
     }
+
     .footer {
         height: auto;
     }
+
     .navsol a {
         clip-path: none;
         transition: all 0.5s ease;
         min-width: auto;
-        height: 49px!important;
+        height: 49px !important;
         padding: 10px;
         font-size: 14px;
     }
+
     .innovando .navsol a {
         clip-path: none;
         transition: all 0.5s ease;
@@ -1053,29 +1105,35 @@ textarea.form-control {
         padding: 10px;
         font-size: 14px;
     }
+
     .innovando .col-md-12.col-sm-12 {
         height: 100%;
         width: 100%;
         padding-top: 20px;
     }
+
     .innovando .desc {
         width: 100%;
-        padding-top: 20px!important;
-        text-align: center!important;
+        padding-top: 20px !important;
+        text-align: center !important;
         height: 100%;
     }
+
     .soluciones .row.align-items-end {
-        align-items: bottom!important;
+        align-items: bottom !important;
     }
+
     .innovando .table-cell {
         position: absolute;
         bottom: 70px;
     }
+
     .table-cell {
         position: absolute;
         bottom: 50px;
         height: 100px;
     }
+
     .navsol a {
         display: block;
         float: left;
@@ -1084,12 +1142,15 @@ textarea.form-control {
         margin-bottom: 10px;
         height: 100px;
     }
+
     .soluciones .container-fluid.fondo {
         background: rgba(153, 1, 1, .5);
     }
+
     .soluciones .wow {
         visibility: visible;
     }
+
     .tercio.cliente,
     .tercio.aliado {
         height: 150px;
@@ -1098,17 +1159,20 @@ textarea.form-control {
 
 @media screen and (max-width: 480px) {
     .navsol a {
-        height: 50px!important;
+        height: 50px !important;
         padding: 5px 5px;
         ;
         font-size: 13px;
     }
+
     .layer {
         font-size: 12px;
     }
+
     .fecha {
         display: none;
     }
+
     .navsol a {
         font-size: 12px;
     }

@@ -66,15 +66,19 @@
                 <div class="col-md-6 wow bounceInDown" data-wow-delay="4.5s">
                   <h1 class="color-white text-uppercase bebas">Nuestras redes sociales</h1>
                   
-
-                  <div class="contenedor-twt">
-                     <a class="twitter-timeline" data-width="100%"  href="https://twitter.com/solodev">Tweets by solodev</a> 
-                  </div>
                   <div class="sociales">
-                    <a href="https://www.facebook.com/share/1Buf8bk8QH/?mibextid=wwXIfr"><i class="fa fa-facebook fa-2x"></i></a>
-                    <a href="https://www.instagram.com/padsamx"><i class="fa fa-instagram fa-2x"></i></a>
-                    <a href="https://www.linkedin.com/company/padsa-mx/"><i class="fa fa-linkedin fa-2x"></i></a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/share/1Buf8bk8QH/?mibextid=wwXIfr"><i class="fa fa-facebook fa-2x"></i></a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/padsamx"><i class="fa fa-instagram fa-2x"></i></a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/padsa-mx/"><i class="fa fa-linkedin fa-2x"></i></a>
+                    
                   </div>
+                  <div class="contenedor-twt">
+                    <!--
+                     <a class="twitter-timeline" data-width="100%"  href="https://twitter.com/solodev">Tweets by solodev</a> 
+                  -->
+                     
+                  </div>
+              
                   
                 </div>
 
